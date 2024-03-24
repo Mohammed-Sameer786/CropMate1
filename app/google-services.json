@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323097741682",
+    "project_id": "prediction-e6c8b",
+    "storage_bucket": "prediction-e6c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323097741682:android:e12a1ce4c343a366ec75eb",
+        "android_client_info": {
+          "package_name": "com.example.prediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvALbYp4ciz3fSLLCi1Kf4s-bLlrPkzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

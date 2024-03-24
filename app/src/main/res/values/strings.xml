@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CropMate</string>
+    <string name="soil">EG: red soil</string>
+    <string name="select">Select Item</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="not_registered">Not yet registered? Sign Up</string>
+    <string name="welcome">Welcome</string>
+    <string name="crop_recommendation">Crop Recommendation</string>
+    <string name="crop_price">Crop Current Price Predictor</string>
+    <string name="crop_description">Crop Description</string>
+    <string name="soil_type">Soil Type</string>
+    <string name="soil_image">Soil Image</string>
+    <string name="image_upload">Upload Image</string>
+    <string name="predict">Predict</string>
+    <string name="home">Home</string>
+    <string name="Season">Season</string>
+    <string name="state">State</string>
+</resources>
